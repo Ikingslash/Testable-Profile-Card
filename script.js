@@ -1,2 +1,2 @@
 const getTime = document.getElementById('user-time')
-getTime.textContent = Date.now()
+getTime.textContent = `Current Time in milliseconds: ${Date.now()}`
