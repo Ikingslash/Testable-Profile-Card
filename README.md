@@ -1,7 +1,15 @@
 # Profile  Card (Stage 1)
 
 ## Overview
-This project is a Testable Profile Card UI built as part of Stage 1 (Frontend).
+This project is a Testable Profile Card UI built as part of Stage 1B(Frontend).
+
+## Features
+* Avatar and Username
+* User Biography
+* Display Time in Milliseconds
+* Social Media Links
+* User Hobbies and Display Section
+
 
 
 
